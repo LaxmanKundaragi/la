@@ -1,0 +1,41 @@
+
+
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+nav ul{
+    display: flex;
+    list-style: none;
+}
+nav li{
+    padding-left: 15%;
+    padding-top: 10%;
+}
+
+.stle{
+    display: flex;
+        padding-top: 30px;
+  
+
+}
+
+
+.color{
+    padding-top: 30px;
+    display: flex;
+}
+
+h1 a {
+    color: blueviolet;
+    text-decoration: none;
+}
+
+.edit,ul,li,a{
+    /* display: inline; */
+    text-decoration: none;
+}

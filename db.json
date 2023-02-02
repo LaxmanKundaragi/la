@@ -1,0 +1,54 @@
+{
+  "seller": [
+    {
+      "name": "Laxman",
+      "password": "Laxman@123",
+      "email": "laxma@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "laxman",
+      "password": "lax",
+      "email": "laxmann",
+      "id": 2
+    },
+    {
+      "name": "hjh",
+      "password": "jh",
+      "email": "kn",
+      "id": 3
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 4
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "name": "Realme",
+      "price": "11000",
+      "color": "Darl",
+      "category": "Mobile",
+      "Descripition": "world is ruled by Mobile.",
+      "image": "https://d2xamzlzrdbdbn.cloudfront.net/products/44f2c9d4-d129-451b-82dc-deb3181fe5ad22251227.jpg",
+      "id": 4
+    },
+    {
+      "name": "",
+      "price": "2000",
+      "color": "",
+      "category": "",
+      "Descripition": "",
+      "image": "",
+      "id": 5
+    }
+  ]
+}
